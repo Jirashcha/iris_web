@@ -19,5 +19,5 @@ Clone this repository (iris_web) to you computer
 - a window will apprear for entering iris data to be predicted
 
 --------------------------------------------------------------------------------------------------
--Example deployed to Azure
+-Example deployed on Azure
 - https://iris-classification.azurewebsites.net/home?
